@@ -28,7 +28,7 @@ namespace QuarkAcademy2daChance
             _ejemplaresRetirados = new List<Ejemplar>();
         }
 
-        public bool PuedeLlevarseEjempplar()
+        public bool PuedeLlevarseEjemplar()
         {
             int cantidadMaximaEjemplares = (this is SocioVIP) ? SocioVIP.EJEMPLARES_CANTIDAD_MAXIMA : EJEMPLARES_CANTIDAD_MAXIMA;
             return _ejemplaresRetirados.Count < cantidadMaximaEjemplares;
@@ -36,7 +36,7 @@ namespace QuarkAcademy2daChance
 
         public void AgregarEjemplar(Ejemplar ejemplar)
         {
-            if (!PuedeLlevarseEjempplar()) throw new Exception("Este socio no puede llevarse más ejemplares.");
+            if (!PuedeLlevarseEjemplar()) throw new Exception("Este socio no puede llevarse más ejemplares.");
                 
             _ejemplaresRetirados.Add(ejemplar);
         }
