@@ -1,0 +1,7 @@
+C:\Users\nicol\Desktop\QuarkAcademy2daChance\QuarkAcademy2daChance\bin\Debug\QuarkAcademy2daChance.exe.config
+C:\Users\nicol\Desktop\QuarkAcademy2daChance\QuarkAcademy2daChance\bin\Debug\QuarkAcademy2daChance.exe
+C:\Users\nicol\Desktop\QuarkAcademy2daChance\QuarkAcademy2daChance\bin\Debug\QuarkAcademy2daChance.pdb
+C:\Users\nicol\Desktop\QuarkAcademy2daChance\QuarkAcademy2daChance\obj\Debug\QuarkAcademy2daChance.csprojAssemblyReference.cache
+C:\Users\nicol\Desktop\QuarkAcademy2daChance\QuarkAcademy2daChance\obj\Debug\QuarkAcademy2daChance.csproj.CoreCompileInputs.cache
+C:\Users\nicol\Desktop\QuarkAcademy2daChance\QuarkAcademy2daChance\obj\Debug\QuarkAcademy2daChance.exe
+C:\Users\nicol\Desktop\QuarkAcademy2daChance\QuarkAcademy2daChance\obj\Debug\QuarkAcademy2daChance.pdb
