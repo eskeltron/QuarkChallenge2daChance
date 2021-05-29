@@ -177,7 +177,7 @@ namespace QuarkAcademy2daChance
         }
         private void RealizarPrestamo(Socio socio)
         {
-            if (!socio.PuedeAgregarEjemplar())
+            if (!socio.PuedeLlevarseEjempplar())
             {
                 Console.WriteLine("Este socio alcanzó el máximo de ejemplares que se le puede prestar.");
                 Console.ReadLine();
