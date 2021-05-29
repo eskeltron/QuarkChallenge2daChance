@@ -1,5 +1,6 @@
 
-Las propiedades permiten que una clase exponga una manera pública de obtener y establecer valores, a la vez que se oculta el código de implementación o verificación.
+Nombre completo: Nicolás Gomez.
+
 
 1 - En C#, ¿para qué sirve una propiedad?. ***En C# se utiliza a las propiedades para poder leer, escribir o calcular un campo privado de la clase a través de una manera pública, a la vez que se oculta el código de implementación o verificación.***
 	
